@@ -1,3 +1,11 @@
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+
+
 /********** Top Header CSS Code Starts  **********/
 <style>
 h1 {
