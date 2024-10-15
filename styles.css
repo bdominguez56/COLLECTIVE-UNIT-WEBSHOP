@@ -1,45 +1,48 @@
 /********** Top Header CSS Code Starts  **********/
-.top-header {
-  background: #f13f31;
-  padding: 8px 0px;
-  border-bottom: 1px solid #3131315e;
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
 }
-.head1p1 {
-  font-size: 12px;
-  color: #ffffff;
-  font-family "Helvetica Neue", Helvetica, Arial, sans-serif;
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
 }
-.head1ul {
-  list-style: none;
-  float: right;
-}
-.head1ul li {
-  float: left;
-  padding-left: 10px;
-}
-.head1ul li a {
-  font-size: 12px;
-  color: #ffffff;
-  font-family "Helvetica Neue", "Helvetica, Arial", "sans-serif";
-  text-decoration: none;
+</style>
 }
 /********** Top Header CSS Code Ends  **********/
 
 
 
 /********** Content Section CSS Code Starts  **********/
-.main-menu {
-  list-style: none;
+<style>
+h1 {
+  color: green;
+  font-family: verdana;
+  font-size: 300%;
 }
-.main-menu a {
-  font-weight: 500;
-  color: #2b304a;
-  font-size: 17px;
-  font-family "Roboto", "sans-serif", "arial";
-  text-decoration: none;
+p {
+  color: orange;
+  font-family: courier;
+  font-size: 160%;
 }
-.main-menu li {
-  float: left;
-  padding: 12px 20px;
-}
+</style>
 /**********  Content Section CSS Code Ends  **********/
+
+/**********  Footer-Section CSS Code Starts  **********/
+<style>
+h1 {
+  color: purple;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: black;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+/**********   Footer-Section CSS Code Ends  **********/
+
